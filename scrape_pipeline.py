@@ -48,7 +48,8 @@ for i, r in enumerate(results, start=1):
         print(f"  skipping result {i} (no markdown)")
         continue
 
-    slug = re.sub(r"[^a-z0-9]+", "-", r["title"].lower()).strip("-")
+    title = r.get("title") or f"result-{i}"
+    slug = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")
     filename = f"{i:02d}-{slug}.md"
     filepath = output_dir / filename
 

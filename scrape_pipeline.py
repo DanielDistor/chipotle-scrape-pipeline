@@ -33,7 +33,7 @@ results = data["data"]["web"]
 print(f"Firecrawl returned {len(results)} results")
 
 for r in results:
-    print(f"  - {r['title']}")
+    print(f"  - {r.get('title', '(no title)')}")
     print(f"    {r['url']}")
     print(f"    markdown length: {len(r.get('markdown') or '')} chars")
 

@@ -36,3 +36,24 @@ for r in results:
     print(f"  - {r['title']}")
     print(f"    {r['url']}")
     print(f"    markdown length: {len(r.get('markdown') or '')} chars")
+
+# --- Step 02: Loop and save to knowledge/raw/ ---
+
+output_dir = Path("knowledge/raw")
+output_dir.mkdir(parents=True, exist_ok=True)
+
+for i, r in enumerate(results, start=1):
+    markdown = r.get("markdown")
+    if not markdown:
+        print(f"  skipping result {i} (no markdown)")
+        continue
+
+    slug = re.sub(r"[^a-z0-9]+", "-", r["title"].lower()).strip("-")
+    filename = f"{i:02d}-{slug}.md"
+    filepath = output_dir / filename
+
+    with open(filepath, "w", encoding="utf-8") as f:
+        f.write(f"Source: {r['url']}\n\n")
+        f.write(markdown)
+
+    print(f"  saved → {filepath}")

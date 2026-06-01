@@ -8,47 +8,47 @@ RECENT NEWS
 
 [Alerts](https://ir.chipotle.com/alerts)
 
+Apr 29, 2026
+
+[CHIPOTLE ANNOUNCES FIRST QUARTER 2026 RESULTS](https://ir.chipotle.com/2026-04-29-CHIPOTLE-ANNOUNCES-FIRST-QUARTER-2026-RESULTS)
+
+RETURN TO POSITIVE TRANSACTIONS DRIVES 0.5% COMPARABLE RESTAURANT SALES GROWTH; REVENUE INCREASES 7.4% TO $3.1 BILLION NEWPORT BEACH, Calif., April 29, 2026 /PRNewswire/ -- Chipotle Mexican Grill,...
+
+Apr 27, 2026
+
+[CHIPOTLE TAPS AWARD-WINNING FERNANDO MACHADO AS CHIEF BRAND OFFICER](https://ir.chipotle.com/2026-04-27-CHIPOTLE-TAPS-AWARD-WINNING-FERNANDO-MACHADO-AS-CHIEF-BRAND-OFFICER)
+
+Appoints Arlie Sisson to newly formed Chief Digital Officer role to accelerate innovation efforts tied to Recipe for Growth strategy NEWPORT BEACH, Calif., April 27, 2026 /PRNewswire/ -- Chipotle...
+
 Mar 17, 2026
 
 [CHIPOTLE MEXICAN GRILL TO ANNOUNCE FIRST QUARTER 2026 RESULTS ON APRIL 29, 2026](https://ir.chipotle.com/2026-03-17-CHIPOTLE-MEXICAN-GRILL-TO-ANNOUNCE-FIRST-QUARTER-2026-RESULTS-ON-APRIL-29,-2026)
 
 Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, April 29, 2026, at 4:30 p.m. ET to discuss first quarter 2026 financial results and provide a business update for the...
 
-Feb 3, 2026
-
-[CHIPOTLE ANNOUNCES FOURTH QUARTER AND FULL YEAR 2025 RESULTS](https://ir.chipotle.com/2026-02-03-CHIPOTLE-ANNOUNCES-FOURTH-QUARTER-AND-FULL-YEAR-2025-RESULTS)
-
-LAUNCHES "RECIPE FOR GROWTH" STRATEGY TO GROW TRANSACTIONS AND DRIVE ACCURACY, EFFICIENCY AND SPEED FULL YEAR TOTAL REVENUE INCREASED 5.4% TO $11.9 BILLION NEWPORT BEACH, Calif., Feb. 3, 2026...
-
-Jan 12, 2026
-
-[CHIPOTLE ANNOUNCES LEADERSHIP TRANSITIONS](https://ir.chipotle.com/2026-01-12-CHIPOTLE-ANNOUNCES-LEADERSHIP-TRANSITIONS)
-
-CHIPOTLE EXECUTIVE ILENE ESKENAZI APPOINTED CHIEF LEGAL AND HUMAN RESOURCES OFFICER STEPHANIE PERDUE, VICE PRESIDENT OF BRAND MARKETING, APPOINTED INTERIM CHIEF MARKETING OFFICER REAFFIRMS FULL...
-
 [Read More](https://ir.chipotle.com/Financial-Releases)
 
 NYSECMG
 
-$34.92
+$31.86
 
-$0.33
+-$0.56
 
 Currency in USD.
 
 Quote data delayed by at least 15 minutes.
 
-2024 ANNUAL
+2025 ANNUAL
 
 REPORT and
 
-2025 proxy
+2026 proxy
 
 statement
 
-[Download Annual Report](https://ir.chipotle.com/download/Chipotle%2B2024%2BAnnual%2BReport.pdf)
+[Download Annual Report](https://ir.chipotle.com/download/2025_Annual_Report.pdf)
 
-[Download Proxy Statement](https://ir.chipotle.com/download/Chipotle%2B2025%2BProxy%2BStatement.pdf)
+[Download Proxy Statement](https://ir.chipotle.com/download/2026_Proxy_Statement.pdf)
 
 **Electronic Delivery**
 
@@ -56,11 +56,11 @@ If you are a Chipotle shareholder and would like to receive your proxy materials
 
 Events
 
-**Chipotle Mexican Grill First Quarter 2026 Results**
+**Bernstein 42nd Annual Strategic Decisions Conference**
 
-**Wednesday, April 29, 2026 at 4:30 p.m. (EDT)**
+**Thursday, May 28, 2026 at 2:30 p.m. (EDT)**
 
-[Listen to the Webcast](https://app.webinar.net/Kv5605dNA3d)
+[Listen to the Webcast](https://event.summitcast.com/view/LCrkJqkW2kWbeKaWQnzTns/guest_book?session_id=EW246KjmRLXQz5ZEXX5dU4)
 
 [CONTACT US](https://ir.chipotle.com/contact-us)
 

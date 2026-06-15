@@ -14,29 +14,29 @@ Do Not Sell or Share My Personal Information / Opt OutAccept AllPrivacy Preferen
 
 News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News Releases.
 
-April 2026
+June 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 29 | 30 | 31 | 1 | 2 | 3 | 4 |
+| 31 | 1 | 2 | 3 | 4 | 5 | 6 |
+| 7 | 8 | 9 | 10 | 11 | 12 | 13 |
+| 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+| 21 | 22 | 23 | 24 | 25 | 26 | 27 |
+| 28 | 29 | 30 | 1 | 2 | 3 | 4 |
 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
-| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
-| 26 | 27 | 28 | 29 | 30 | 1 | 2 |
-| 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 
 Cancel Go
 
-April 2026
+June 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 29 | 30 | 31 | 1 | 2 | 3 | 4 |
+| 31 | 1 | 2 | 3 | 4 | 5 | 6 |
+| 7 | 8 | 9 | 10 | 11 | 12 | 13 |
+| 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+| 21 | 22 | 23 | 24 | 25 | 26 | 27 |
+| 28 | 29 | 30 | 1 | 2 | 3 | 4 |
 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
-| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
-| 26 | 27 | 28 | 29 | 30 | 1 | 2 |
-| 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 
 Cancel Go
 
@@ -60,105 +60,105 @@ PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases#)
 
-- [![](https://mma.prnewswire.com/media/2954268/Chipotle_Rewards_On_Repeat.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-04-13-CHIPOTLE-RELAUNCHES-REWARDS-WITH-REWARDS-ON-REPEAT,-DELIVERING-MORE-VALUE-WITHOUT-TRADE-OFFS)
+- [![](https://mmx.prnewswire.com/media/MS1858810/Soccer_BOGO_Lockup_PR_Asset.jpg?id=OA2690089&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-06-08-CHIPOTLE-KICKS-OFF-SUMMERS-BIGGEST-TOURNAMENT-WITH-ITS-FIRST-EVER-MATCHDAY-BOGO-FOR-FANS-WEARING-SOCCER-JERSEYS)
 
 
 
-Apr 13, 2026
+Jun 8, 2026
 
 
 
-[CHIPOTLE RELAUNCHES REWARDS WITH "REWARDS ON REPEAT," DELIVERING MORE VALUE WITHOUT TRADE-OFFSOpens in new window](https://newsroom.chipotle.com/2026-04-13-CHIPOTLE-RELAUNCHES-REWARDS-WITH-REWARDS-ON-REPEAT,-DELIVERING-MORE-VALUE-WITHOUT-TRADE-OFFS)
+[CHIPOTLE KICKS OFF SUMMER'S BIGGEST TOURNAMENT WITH ITS FIRST-EVER MATCHDAY BOGO FOR FANS WEARING SOCCER JERSEYSOpens in new window](https://newsroom.chipotle.com/2026-06-08-CHIPOTLE-KICKS-OFF-SUMMERS-BIGGEST-TOURNAMENT-WITH-ITS-FIRST-EVER-MATCHDAY-BOGO-FOR-FANS-WEARING-SOCCER-JERSEYS)
 
 
 
 
 
-With 21 million active members driving a significant portion of the company's sales, Chipotle enters its next phase of digital growth New benefits include monthly free food drops, expanded...
+All fans who wear a soccer jersey to Chipotle restaurants in the U.S., Canada and U.K. on June 11, after 3 p.m. local time, can receive a buy-one-get-one free entrée1 Chipotle is releasing its...
 
 
 
 
 
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-04-13-CHIPOTLE-RELAUNCHES-REWARDS-WITH-REWARDS-ON-REPEAT,-DELIVERING-MORE-VALUE-WITHOUT-TRADE-OFFS#assets_20295_122852-117)
+  - [Photos2Opens in new window](https://newsroom.chipotle.com/2026-06-08-CHIPOTLE-KICKS-OFF-SUMMERS-BIGGEST-TOURNAMENT-WITH-ITS-FIRST-EVER-MATCHDAY-BOGO-FOR-FANS-WEARING-SOCCER-JERSEYS#assets_20295_122865-117)
 
-- [![](https://mma.prnewswire.com/media/2944587/Chipotle_National_Burrito_Day_2026.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-03-30-CHIPOTLE-LAUNCHES-BURRITO-VAULT-DOUBLE-PROTEIN-EDITION-WITH-OVER-2-MILLION-IN-CHIPOTLE-PRIZES-FOR-NATIONAL-BURRITO-DAY)
+- [![](https://mmx.prnewswire.com/media/MS1853469/53_Years-53_Real_Ingredients.jpg?id=OA2644601&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-06-03-53-YEARS-53-REAL-INGREDIENTS-CHIPOTLE-TO-GIVE-AWAY-53,000-FREE-BURRITOS-FOR-THE-MENS-PROFESSIONAL-BASKETBALL-CHAMPIONSHIP-SERIES)
 
 
 
-Mar 30, 2026
+Jun 3, 2026
 
 
 
-[CHIPOTLE LAUNCHES BURRITO VAULT: DOUBLE PROTEIN EDITION WITH OVER $2 MILLION IN CHIPOTLE PRIZES FOR NATIONAL BURRITO DAYOpens in new window](https://newsroom.chipotle.com/2026-03-30-CHIPOTLE-LAUNCHES-BURRITO-VAULT-DOUBLE-PROTEIN-EDITION-WITH-OVER-2-MILLION-IN-CHIPOTLE-PRIZES-FOR-NATIONAL-BURRITO-DAY)
+[53 YEARS. 53 REAL INGREDIENTS: CHIPOTLE TO GIVE AWAY 53,000 FREE BURRITOS FOR THE MEN'S PROFESSIONAL BASKETBALL CHAMPIONSHIP SERIESOpens in new window](https://newsroom.chipotle.com/2026-06-03-53-YEARS-53-REAL-INGREDIENTS-CHIPOTLE-TO-GIVE-AWAY-53,000-FREE-BURRITOS-FOR-THE-MENS-PROFESSIONAL-BASKETBALL-CHAMPIONSHIP-SERIES)
 
 
 
 
 
-After more than 3.5 million plays in 2025, Chipotle's popular digital game is back for a third consecutive year with a new high protein twist Rewards Members who crack the code to Chipotle's...
+Chipotle is tying New York and San Antonio's 53-year connection to its real ingredients New York's Josh Hart and Mikal Bridges' go-to high protein orders are featured as limited-time digital menu...
 
 
 
 
 
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-03-30-CHIPOTLE-LAUNCHES-BURRITO-VAULT-DOUBLE-PROTEIN-EDITION-WITH-OVER-2-MILLION-IN-CHIPOTLE-PRIZES-FOR-NATIONAL-BURRITO-DAY#assets_20295_122851-117)
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-06-03-53-YEARS-53-REAL-INGREDIENTS-CHIPOTLE-TO-GIVE-AWAY-53,000-FREE-BURRITOS-FOR-THE-MENS-PROFESSIONAL-BASKETBALL-CHAMPIONSHIP-SERIES#assets_20295_122864-117)
 
-- [![](https://mma.prnewswire.com/media/2936558/PR_Asset_Cilantro_Lime_Sauce_1.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-03-18-CHIPOTLE-LAUNCHES-FRESH-CILANTRO-LIME-SAUCE-FOR-A-LIMITED-TIME-AMID-AMERICAS-SAUCE-OBSESSION)
+- Jun 2, 2026
 
 
 
-Mar 18, 2026
+[CHIPOTLE MEXICAN GRILL TO ANNOUNCE SECOND QUARTER 2026 RESULTS ON JULY 29, 2026Opens in new window](https://newsroom.chipotle.com/2026-06-02-CHIPOTLE-MEXICAN-GRILL-TO-ANNOUNCE-SECOND-QUARTER-2026-RESULTS-ON-JULY-29,-2026)
 
 
 
-[CHIPOTLE LAUNCHES FRESH CILANTRO LIME SAUCE FOR A LIMITED TIME AMID AMERICA'S SAUCE OBSESSIONOpens in new window](https://newsroom.chipotle.com/2026-03-18-CHIPOTLE-LAUNCHES-FRESH-CILANTRO-LIME-SAUCE-FOR-A-LIMITED-TIME-AMID-AMERICAS-SAUCE-OBSESSION)
 
 
+Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, July 29, 2026, at 4:30 p.m. ET to discuss second quarter 2026 financial results and provide a business update for the...
 
+- [![](https://mmx.prnewswire.com/media/MS1850047/Chipotle_Summer_of_Extras.jpg?id=OA2643175&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-05-28-CHIPOTLES-SUMMER-OF-EXTRAS-RETURNS,-WITH-STREAK-BASED-REWARDS-AND-LOCAL-RANKINGS-TO-GAMIFY-THE-REWARDS-EXPERIENCE)
 
 
-Fresh cilantro, lime and roasted jalapeños come together in a creamy new sauce made fresh daily Cilantro Lime Sauce is Chipotle's highest-performing sauce in company test markets to date The...
 
+May 28, 2026
 
 
 
+[CHIPOTLE'S "SUMMER OF EXTRAS" RETURNS, WITH STREAK-BASED REWARDS AND LOCAL RANKINGS TO GAMIFY THE REWARDS EXPERIENCEOpens in new window](https://newsroom.chipotle.com/2026-05-28-CHIPOTLES-SUMMER-OF-EXTRAS-RETURNS,-WITH-STREAK-BASED-REWARDS-AND-LOCAL-RANKINGS-TO-GAMIFY-THE-REWARDS-EXPERIENCE)
 
-  - [Photos3Opens in new window](https://newsroom.chipotle.com/2026-03-18-CHIPOTLE-LAUNCHES-FRESH-CILANTRO-LIME-SAUCE-FOR-A-LIMITED-TIME-AMID-AMERICAS-SAUCE-OBSESSION#assets_20295_122850-117)
 
-- Mar 17, 2026
 
 
 
-[CHIPOTLE MEXICAN GRILL TO ANNOUNCE FIRST QUARTER 2026 RESULTS ON APRIL 29, 2026Opens in new window](https://newsroom.chipotle.com/2026-03-17-CHIPOTLE-MEXICAN-GRILL-TO-ANNOUNCE-FIRST-QUARTER-2026-RESULTS-ON-APRIL-29,-2026)
+The 2026 program introduces simplified monthly rewards, local leaderboards and shareable stats designed to engage loyal fans this summer NEWPORT BEACH, Calif., May 28, 2026 /PRNewswire/ --...
 
 
 
 
 
-Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, April 29, 2026, at 4:30 p.m. ET to discuss first quarter 2026 financial results and provide a business update for the...
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-05-28-CHIPOTLES-SUMMER-OF-EXTRAS-RETURNS,-WITH-STREAK-BASED-REWARDS-AND-LOCAL-RANKINGS-TO-GAMIFY-THE-REWARDS-EXPERIENCE#assets_20295_122862-117)
 
-- [![](https://mma.prnewswire.com/media/2929885/CMG_Friday_13th_Tatted_Like_a_Chipotle_Bag_BOGO.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-03-10-CHIPOTLE-BRINGS-BACK-TATTED-LIKE-A-CHIPOTLE-BAG-BOGO-WITH-SUPERFAN-SWAE-LEE-FOR-FRIDAY-THE-13TH)
+- [![](https://newsroom.chipotle.com/image/Graduation_PRAsset__mid.jpg)Opens in new window](https://newsroom.chipotle.com/2026-05-11-CHIPOTLE-REVEALS-AMERICAS-MOST-CHIPOTLE-OBSESSED-COLLEGE-TOWNS-AND-CELEBRATES-THE-CLASS-OF-2026-WITH-GIFT-CARD-OFFER)
 
 
 
-Mar 10, 2026
+May 11, 2026
 
 
 
-[CHIPOTLE BRINGS BACK "TATTED LIKE A CHIPOTLE BAG" BOGO WITH SUPERFAN SWAE LEE FOR FRIDAY THE 13THOpens in new window](https://newsroom.chipotle.com/2026-03-10-CHIPOTLE-BRINGS-BACK-TATTED-LIKE-A-CHIPOTLE-BAG-BOGO-WITH-SUPERFAN-SWAE-LEE-FOR-FRIDAY-THE-13TH)
+[CHIPOTLE REVEALS AMERICA’S MOST CHIPOTLE-OBSESSED COLLEGE TOWNS AND CELEBRATES THE CLASS OF 2026 WITH GIFT CARD OFFER Opens in new window](https://newsroom.chipotle.com/2026-05-11-CHIPOTLE-REVEALS-AMERICAS-MOST-CHIPOTLE-OBSESSED-COLLEGE-TOWNS-AND-CELEBRATES-THE-CLASS-OF-2026-WITH-GIFT-CARD-OFFER)
 
 
 
 
 
-On Friday, March 13, from 3 to 4 p.m. local time, Chipotle will offer a "flash" one-hour BUY-ONE-GET-ONE (BOGO) offer1 for fans who are "tatted like a Chipotle bag" The promotion is inspired by...
+New Chipotle U Rewards data highlights top group-order campuses, delivery hotspots and regional flavor trends Starting May 14, the first 10,000 guests who purchase $40 or more in graduation-themed...
 
 
 
 
 
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-03-10-CHIPOTLE-BRINGS-BACK-TATTED-LIKE-A-CHIPOTLE-BAG-BOGO-WITH-SUPERFAN-SWAE-LEE-FOR-FRIDAY-THE-13TH#assets_20295_122848-117)
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-05-11-CHIPOTLE-REVEALS-AMERICAS-MOST-CHIPOTLE-OBSESSED-COLLEGE-TOWNS-AND-CELEBRATES-THE-CLASS-OF-2026-WITH-GIFT-CARD-OFFER#assets_20295_122861-117)
 
 Show
 

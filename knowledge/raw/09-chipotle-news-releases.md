@@ -6,29 +6,29 @@ Source: https://newsroomeu.chipotle.com/press-releases
 
 News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News Releases.
 
-April 2026
+June 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 29 | 30 | 31 | 1 | 2 | 3 | 4 |
+| 31 | 1 | 2 | 3 | 4 | 5 | 6 |
+| 7 | 8 | 9 | 10 | 11 | 12 | 13 |
+| 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+| 21 | 22 | 23 | 24 | 25 | 26 | 27 |
+| 28 | 29 | 30 | 1 | 2 | 3 | 4 |
 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
-| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
-| 26 | 27 | 28 | 29 | 30 | 1 | 2 |
-| 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 
 Cancel Go
 
-April 2026
+June 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 29 | 30 | 31 | 1 | 2 | 3 | 4 |
+| 31 | 1 | 2 | 3 | 4 | 5 | 6 |
+| 7 | 8 | 9 | 10 | 11 | 12 | 13 |
+| 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+| 21 | 22 | 23 | 24 | 25 | 26 | 27 |
+| 28 | 29 | 30 | 1 | 2 | 3 | 4 |
 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
-| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
-| 26 | 27 | 28 | 29 | 30 | 1 | 2 |
-| 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 
 Cancel Go
 
@@ -49,6 +49,28 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroomeu.chipotle.com/press-releases#)
+
+- [![](https://newsroomeu.chipotle.com/image/UK_PR_0608_800px.jpg)Opens in new window](https://newsroomeu.chipotle.com/2026-06-08-CHIPOTLE-UK-KICKS-OFF-SUMMERS-BIGGEST-TOURNAMENT-WITH-ITS-FIRST-EVER-MATCHDAY-BOGO-FOR-FANS-WEARING-FOOTBALL-KITS)
+
+
+
+Jun 8, 2026
+
+
+
+[CHIPOTLE UK KICKS OFF SUMMER’S BIGGEST TOURNAMENT WITH ITS FIRST-EVER MATCHDAY BOGO FOR FANS WEARING FOOTBALL KITSOpens in new window](https://newsroomeu.chipotle.com/2026-06-08-CHIPOTLE-UK-KICKS-OFF-SUMMERS-BIGGEST-TOURNAMENT-WITH-ITS-FIRST-EVER-MATCHDAY-BOGO-FOR-FANS-WEARING-FOOTBALL-KITS)
+
+
+
+
+
+All fans who wear a football kit to Chipotle restaurants in the UK on 11 June after 3 p.m. can receive a buy-one-get-one main1 The Matchday BOGO celebrates the shared experiences and traditions...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroomeu.chipotle.com/2026-06-08-CHIPOTLE-UK-KICKS-OFF-SUMMERS-BIGGEST-TOURNAMENT-WITH-ITS-FIRST-EVER-MATCHDAY-BOGO-FOR-FANS-WEARING-FOOTBALL-KITS#assets_20295_122837-117)
 
 - Apr 29, 2026
 
@@ -107,18 +129,6 @@ After launching in the UK in 2025, Chipotle Honey Chicken became the brand’s b
 
 
 Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, April 29, 2026, at 4:30 p.m. ET to discuss first quarter 2026 financial results and provide a business update for the...
-
-- Feb 3, 2026
-
-
-
-[CHIPOTLE ANNOUNCES FOURTH QUARTER AND FULL YEAR 2025 RESULTSOpens in new window](https://newsroomeu.chipotle.com/2026-02-03-CHIPOTLE-ANNOUNCES-FOURTH-QUARTER-AND-FULL-YEAR-2025-RESULTS)
-
-
-
-
-
-LAUNCHES "RECIPE FOR GROWTH" STRATEGY TO GROW TRANSACTIONS AND DRIVE ACCURACY, EFFICIENCY AND SPEED FULL YEAR TOTAL REVENUE INCREASED 5.4% TO $11.9 BILLION NEWPORT BEACH, Calif., Feb. 3, 2026...
 
 
 Show
